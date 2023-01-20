@@ -1,0 +1,16 @@
+Correlation between total deaths and median age for United States:
+              total_deaths  median_age
+total_deaths           1.0         NaN
+median_age             NaN         NaN
+Correlation between total deaths and median age for China:
+              total_deaths  median_age
+total_deaths           1.0         NaN
+median_age             NaN         NaN
+Correlation between total deaths and median age for France:
+              total_deaths  median_age
+total_deaths           1.0         NaN
+median_age             NaN         NaN
+Correlation between total deaths and median age for Germany:
+              total_deaths  median_age
+total_deaths           1.0         NaN
+median_age             NaN         NaN
