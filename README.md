@@ -10,7 +10,8 @@ Inside the repository, you can find the answers and its explanation to these que
 - Q1: [Link](https://github.com/MHamidA/COVID-19_Assignment/tree/main/Q1)
 - Q2: [Link](https://github.com/MHamidA/COVID-19_Assignment/tree/main/Q2)
 
-Others link:
-Data Source: [Source](https://ourworldindata.org/covid-cases)
+<br />
 
+Others link:<br />
+Data Source: [Source](https://ourworldindata.org/covid-cases)<br />
 Dashboard: [COVID-19 Dashboard](https://public.tableau.com/app/profile/mohammad.hamid.asnawi/viz/COVID-19Dashboard_16741408699390/Overview?publish=yes)
